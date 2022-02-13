@@ -1,5 +1,5 @@
 <div style="font-family:consolas">
-<h1 align="left">Hi 🌷, I'm Elif</h1>
+<h1 align="left">Hi 👋, I'm Elif</h1>
 <p>👨‍💻 I love coding and learning new technologies.</p>
 
 <h3 align="left">Connect with me:</h3>
