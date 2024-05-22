@@ -13,12 +13,13 @@
 <a href="https://www.hackerrank.com/elifgokpinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elifgokpinar" height="40" width="40" /></a>
 <a href="https://leetcode.com/u/gkpnrelif/" target="blank"><img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="elifgokpinar" height="40" width="40" /></a>
 </p>
-
 <br>
 
 <a href='https://github.com/elifgokpinar/github-stats-transparent'>  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifgokpinar&layout=compact)](https://github.com/elifgokpinar/github-readme-stats)
+<br>
+![](https://komarev.com/ghpvc/?username=elifgokpinar&color=blue)
 
 </a>
 </div>
